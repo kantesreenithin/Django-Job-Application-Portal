@@ -4,8 +4,8 @@ Download the file
 Install python and Django to run the Project
 
 Run the makemigrations command to make migrations
--python manage.py makemigrations
--python manage.py migrate
+<br>-python manage.py makemigrations
+<br>-python manage.py migrate
 
 Finally its ready to run the project
-python manage.py runserver
+<br>-python manage.py runserver
